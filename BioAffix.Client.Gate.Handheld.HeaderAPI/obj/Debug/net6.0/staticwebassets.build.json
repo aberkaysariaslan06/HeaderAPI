@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bSOFTRmbNwEywMtTJz+/1ImS7D8jCfT3TilpS3Ghnyw=",
+  "Source": "BioAffix.Client.Gate.Handheld.HeaderAPI",
+  "BasePath": "_content/BioAffix.Client.Gate.Handheld.HeaderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

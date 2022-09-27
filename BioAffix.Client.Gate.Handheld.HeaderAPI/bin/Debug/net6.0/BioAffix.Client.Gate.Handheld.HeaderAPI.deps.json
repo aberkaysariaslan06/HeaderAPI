@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BioAffix.Client.Gate.Handheld.HeaderAPI/1.0.0": {
+        "runtime": {
+          "BioAffix.Client.Gate.Handheld.HeaderAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BioAffix.Client.Gate.Handheld.HeaderAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
